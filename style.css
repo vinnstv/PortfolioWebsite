@@ -123,7 +123,7 @@ span{
                 0 0 100px var(--main-color);
 }
 .home-content p{
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight: 500;
     line-height: 1.8;
     max-width: 1000px;
